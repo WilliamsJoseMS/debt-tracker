@@ -1,0 +1,5 @@
+{
+  "name": "DebtTracker Euro",
+  "description": "Una aplicación intuitiva para el seguimiento y control de deudas personales en Euros, con visualización de progreso y análisis inteligente.",
+  "requestFramePermissions": []
+}
